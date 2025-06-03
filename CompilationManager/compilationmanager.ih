@@ -1,0 +1,4 @@
+#include "../CompilationManager/compilationmanager.h"
+
+using namespace std;
+

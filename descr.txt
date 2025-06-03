@@ -1,0 +1,1 @@
+ Purpose of this exercise: learn to implement an elaborate multi-threaded program. 

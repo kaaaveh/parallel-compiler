@@ -1,0 +1,5 @@
+#include "CompilationJobs/compilationjobs.ih"
+#include "CompilationManager/compilationmanager.ih"
+#include "Compiler/compiler.ih"
+
+using namespace std;
